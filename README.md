@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 📫 You can reach me through:
 - Gmail: felipjahleel.villegas@wvsu.edu.ph
 
-## ❗ Reminder:
+## ❗ Remember:
 - 🕛 Sleep is a must.
 ## Fun Fact
 - Android’s Google Store has more than 48 billion apps installed in it, and most of them are free of cost.
