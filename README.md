@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋👋👋 Felip is here! Start your day with a smile 😊 and enjoy the rest.  
 
 <!--
 **felipjah/felipjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## 💼 I am currently studying at WVSU main campus
+## 🖥 Taking up a Bachelor of Science in Information Systems
+   
+   ## 🎮 My hobbies are:
+   - Watching movies
+   - Anime
+   - Kdrama
+   - Reading mangga ang manhu
+   - listening to music
+   - Playing online game
+   
+   ## 🔎 Currently learning... 
+   - Different Programming languages
+   - Technopreneurship
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+## 📫 You can reach me through:
+- Gmail: felipjahleel.villegas@wvsu.edu.ph
+
+## ❗ Reminder:
+- 🕛 Sleep is a must.
+## Fun Fact
+- Android’s Google Store has more than 48 billion apps installed in it, and most of them are free of cost.
 -->
