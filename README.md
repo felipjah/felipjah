@@ -4,8 +4,9 @@
 **felipjah/felipjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 ## 💼 I am currently studying at WVSU main campus
-## 🖥 Taking up a Bachelor of Science in Information Systems
+## 🖥 I am taking up a Bachelor of Science in Information Systems
    
    ## 🎮 My hobbies are:
    - Watching movies
